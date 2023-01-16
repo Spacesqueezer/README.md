@@ -1,1 +1,1 @@
-[! [Codewars] (https://www.codewars.com/users/Spacesqueezer/badges/large?logo=false)]
+[! [Codewars] (https://www.codewars.com/users/Spacesqueezer/badges/large)](https://www.codewars.com/users/Spacesqueezer)
